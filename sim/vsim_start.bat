@@ -1,0 +1,1 @@
+vsim -novopt work.etb -t 1ps
